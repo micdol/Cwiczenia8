@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ListListenerDisplayChanges.cs" />
+    <Compile Include="ListListenerSaveToFile.cs" />
+    <Compile Include="ListModificationArgs.cs" />
+    <Compile Include="ListWithNotifications.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
